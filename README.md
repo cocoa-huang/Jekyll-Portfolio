@@ -1,4 +1,4 @@
-# practice-website
+# About Me
 Practice using GitHub Pages and Jekyll for DSC on-boarding.
 
 In addition, through this practice, I try to give the public an understanding of myself, including:
