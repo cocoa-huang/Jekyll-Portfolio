@@ -1,6 +1,6 @@
-----
+---
 linkedin: "https://www.linkedin.com/in/zikang-huang/"
-----
+---
 
 # Zikang(Eric) Huang
 
