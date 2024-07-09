@@ -2,6 +2,8 @@
 linkedin: "https://www.linkedin.com/in/zikang-huang/"
 ---
 
+{% include navigation.html %}
+
 # Zikang(Eric) Huang
 
 ## Hello! 你好！
