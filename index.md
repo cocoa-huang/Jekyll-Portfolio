@@ -1,3 +1,7 @@
+----
+linkedin: "https://www.linkedin.com/in/zikang-huang/"
+----
+
 # Zikang(Eric) Huang
 
 ## Hello! 你好！
@@ -7,3 +11,4 @@ This is a practice about how to build and deploy a website using Jekyll and Gith
 
 ## Contact me
 Email: [{{ site.email }}](mailto:{{ site.email }})
+LinkedIn: {{ page.linkedin }}
